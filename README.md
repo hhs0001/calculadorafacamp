@@ -1,5 +1,5 @@
 ## Projeto da calculadora estatística
 
- - [ ] Skecht da GUI
- - [ ] Seletor de arquivos
- - [ ] Funções estatísticas  
+ - [x] Skecht da GUI
+ - [x] Seletor de arquivos
+ - [x] Funções estatísticas  
